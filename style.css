@@ -1,0 +1,14 @@
+.body{
+text-align: center;
+list-style-position: inside;
+}
+.title{
+    color: aqua;
+}
+.nav{
+    color: blueviolet;
+    font-size: 30px;
+}
+.hi{
+    color: brown;
+}
